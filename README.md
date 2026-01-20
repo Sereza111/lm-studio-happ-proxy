@@ -52,7 +52,10 @@ start "" "C:\Users\Yozik\AppData\Local\Programs\LM Studio\LM Studio.exe"
 1. **Откройте Happ**
 2. Перейдите в **Настройки → Маршрутизация** (Settings → Routing)
 3. **Включите** опцию **"Разрешить подключения из LAN"** (Allow LAN connections)
-4. Проверьте **Порт SOCKS5 прокси** (по умолчанию `10808`)
+
+<img src="https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/b9b0526a-02f4-4a6a-9efc-4c8e42d3b0d6" alt="Happ Settings - Allow LAN" width="600">
+
+5. Проверьте **Порт SOCKS5 прокси** (по умолчанию `10808`)
 
 ### Шаг 4: Перезагрузитесь
 
